@@ -28,7 +28,7 @@
     <p><a href="https://your-live-portfolio-link.com">Link to your live portfolio</a> (if you have set up GitHub Pages)</p>
     <h2>How to Use:</h2>
     <ol>
-        <li>Clone the repository: <code>git clone https://github.com/your-username/my-portfolio.git</code></li>
+        <li>Clone the repository: <code>git clone https://github.com/vdalela17/my-portfolio.git</code></li>
         <li>Navigate to the project directory: <code>cd my-portfolio</code></li>
         <li>Open <code>index.html</code> in your web browser to view the portfolio.</li>
     </ol>
